@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">waktu</string>
+    <string name="waktu">WAKTU</string>
+    <string name="detik">DETIK</string>
+    <string name="hitung">HITUNG</string>
+    <string name="hasil">HASIL</string>
+    <string name="menit">MENIT</string>
+    <string name="jam">JAM</string>
+    <string name="konversi_waktu">KONVERSI WAKTU</string>
+    <string name="_1_detik">1.DETIK</string>
+    <string name="go1">MULAI</string>
+    <string name="_2_menit">2.MENIT</string>
+    <string name="go2">MULAI</string>
+    <string name="_3_jam">3.JAM</string>
+    <string name="go3">MULAI</string>
+    <string name="tentang_kami">TENTANG KAMI</string>
+    <string name="waktu2">WAKTU</string>
+    <string name="menit2">MENIT</string>
+    <string name="hitung2">HITUNG</string>
+    <string name="detik2">DETIK</string>
+    <string name="jam2">JAM</string>
+    <string name="JAM3">JAM</string>
+    <string name="HITUNG3">HITUNG</string>
+    <string name="menit3">MENIT</string>
+    <string name="detik4">DETIK</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daftar_nama_dan_npm_anggota">Daftar NAMA dan NPM Anggota</string>
+    <string name="ketuk">KETUK</string>
+    <string name="_1757051010">1757051010</string>
+    <string name="zihad_ubaddika_agung">Zihad Ubaddika Agung</string>
+    <string name="_1757051004">1757051004</string>
+    <string name="putri_febriana">Putri Febriana</string>
+    <string name="_1717051022">1717051022</string>
+    <string name="tambat_ramdhani">Tambat Ramdhani</string>
+    <string name="_1717051034">1717051034</string>
+</resources>
